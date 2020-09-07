@@ -18,5 +18,3 @@ spec:
       repository: stefanprodan/podinfo
       tag: dev-hdtwcel9
     replicaCount: 1
-    hpa:
-      enabled: false

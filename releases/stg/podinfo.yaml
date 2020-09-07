@@ -18,8 +18,3 @@ spec:
       repository: stefanprodan/podinfo
       tag: stg-9ij63o4c
     replicaCount: 1
-    hpa:
-      enabled: true
-      maxReplicas: 10
-      cpu: 50
-      memory: 256Mi
